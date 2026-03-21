@@ -394,5 +394,387 @@
         ]
       }
     ]
-  }
+  },
+  {
+  "id": "u3",
+  "title": "第三单元:西语世界地图",
+  "topics": [
+    {
+      "id": "u3_t1",
+      "title": "Actividad 3",
+      "words": [
+        { "id": "301", "zh": "首都；省会", "pos": "f.", "es": "capital" },
+        { "id": "302", "zh": "货币", "pos": "f.", "es": "moneda" },
+        { "id": "303", "zh": "人口", "pos": "f.", "es": "población" },
+        { "id": "304", "zh": "百万", "pos": "m.", "es": "millón" },
+        { "id": "305", "zh": "地方", "pos": "m.", "es": "lugar" },
+        { "id": "306", "zh": "兴趣", "pos": "m.", "es": "interés" },
+        { "id": "307", "zh": "旅游的", "pos": "adj.", "es": "turístico" },
+        { "id": "308", "zh": "语言", "pos": "f.", "es": "lengua" },
+        { "id": "309", "zh": "官方的", "pos": "adj.", "es": "oficial" },
+        { "id": "310", "zh": "菜肴", "pos": "m.", "es": "plato" },
+        { "id": "311", "zh": "典型的", "pos": "adj.", "es": "típico" },
+        { "id": "312", "zh": "产品", "pos": "m.", "es": "producto" },
+        { "id": "313", "zh": "重要的", "pos": "adj.", "es": "importante" },
+        { "id": "314", "zh": "气候", "pos": "m.", "es": "clima" },
+        { "id": "315", "zh": "干燥的", "pos": "adj.", "es": "seco" },
+        { "id": "316", "zh": "温和的", "pos": "adj.", "es": "templado" },
+        { "id": "317", "zh": "中心", "pos": "m.", "es": "centro" },
+        { "id": "318", "zh": "寒冷的", "pos": "adj.", "es": "frío" },
+        { "id": "319", "zh": "南方", "pos": "m.", "es": "sur" },
+        { "id": "320", "zh": "北方", "pos": "m.", "es": "norte" },
+        { "id": "321", "zh": "铜", "pos": "m.", "es": "cobre" },
+        { "id": "322", "zh": "铁", "pos": "m.", "es": "hierro" },
+        { "id": "323", "zh": "石油", "pos": "m.", "es": "petróleo" },
+        { "id": "324", "zh": "居民", "pos": "m.", "es": "habitante" }
+      ]
+    },
+    {
+      "id": "u3_t2",
+      "title": "地理景观",
+      "words": [
+        { "id": "325", "zh": "山", "pos": "f.", "es": "montaña" },
+        { "id": "326", "zh": "火山", "pos": "m.", "es": "volcán" },
+        { "id": "327", "zh": "山脉", "pos": "f.", "es": "cordillera" },
+        { "id": "328", "zh": "沙漠", "pos": "m.", "es": "desierto" },
+        { "id": "329", "zh": "半岛", "pos": "f.", "es": "península" },
+        { "id": "330", "zh": "岛屿", "pos": "f.", "es": "isla" },
+        { "id": "331", "zh": "瀑布", "pos": "f.", "es": "catarata" },
+        { "id": "332", "zh": "小瀑布", "pos": "f.", "es": "cascada" },
+        { "id": "333", "zh": "湖泊", "pos": "m.", "es": "lago" },
+        { "id": "334", "zh": "河流", "pos": "m.", "es": "río" },
+        { "id": "335", "zh": "海岸", "pos": "f.", "es": "costa" },
+        { "id": "336", "zh": "丛林", "pos": "f.", "es": "selva" },
+        { "id": "337", "zh": "森林", "pos": "m.", "es": "bosque" },
+        { "id": "338", "zh": "海", "pos": "m.", "es": "mar" },
+        { "id": "339", "zh": "海滩", "pos": "f.", "es": "playa" },
+        { "id": "340", "zh": "山丘", "pos": "m.", "es": "cerro" }
+      ]
+    },
+    {
+      "id": "u3_t3",
+      "title": "大洲大洋",
+      "words": [
+        { "id": "341", "zh": "欧洲", "pos": "f.", "es": "Europa" },
+        { "id": "342", "zh": "亚洲", "pos": "f.", "es": "Asia" },
+        { "id": "343", "zh": "非洲", "pos": "f.", "es": "África" },
+        { "id": "344", "zh": "美洲", "pos": "f.", "es": "América" },
+        { "id": "345", "zh": "大洋洲", "pos": "f.", "es": "Oceanía" },
+        { "id": "346", "zh": "印度洋", "pos": "m.", "es": "océano Índico" },
+        { "id": "347", "zh": "大西洋", "pos": "m.", "es": "océano Atlántico" },
+        { "id": "348", "zh": "太平洋", "pos": "m.", "es": "océano Pacífico" }
+      ]
+    },
+    {
+      "id": "u3_t4",
+      "title": "Actividad 4",
+      "words": [
+        { "id": "349", "zh": "旅行", "pos": "m.", "es": "viaje" },
+        { "id": "350", "zh": "拉丁美洲", "pos": "f.", "es": "Latinoamérica" },
+        { "id": "351", "zh": "这里", "pos": "adv.", "es": "aquí" },
+        { "id": "352", "zh": "全部", "pos": "adj./pron.", "es": "todo" },
+        { "id": "353", "zh": "珍贵的", "pos": "adj.", "es": "precioso" },
+        { "id": "354", "zh": "沙子", "pos": "f.", "es": "arena" },
+        { "id": "355", "zh": "黑色的", "pos": "adj.", "es": "negro" },
+        { "id": "356", "zh": "漂亮的", "pos": "adj.", "es": "bonito" },
+        { "id": "357", "zh": "难以置信的", "pos": "adj.", "es": "increíble" },
+        { "id": "358", "zh": "人们", "pos": "f.", "es": "gente" },
+        { "id": "359", "zh": "友好的", "pos": "adj.", "es": "simpático" },
+        { "id": "360", "zh": "世界", "pos": "m.", "es": "mundo" },
+        { "id": "361", "zh": "和蔼的", "pos": "adj.", "es": "amable" },
+        { "id": "362", "zh": "最喜欢的", "pos": "adj.", "es": "favorito" },
+        { "id": "363", "zh": "很多", "pos": "adj./adv.", "es": "mucho" },
+        { "id": "364", "zh": "很", "pos": "adv.", "es": "muy" },
+        { "id": "365", "zh": "潮湿的", "pos": "adj.", "es": "húmedo" },
+        { "id": "366", "zh": "废墟", "pos": "f.", "es": "ruina" },
+        { "id": "367", "zh": "玛雅的", "pos": "adj.", "es": "maya" },
+        { "id": "368", "zh": "愿望", "pos": "f.pl.", "es": "ganas" },
+        { "id": "369", "zh": "寺庙", "pos": "m.", "es": "templo" },
+        { "id": "370", "zh": "宫殿", "pos": "m.", "es": "palacio" },
+        { "id": "371", "zh": "广场", "pos": "f.", "es": "plaza" },
+        { "id": "372", "zh": "市场", "pos": "m.", "es": "mercado" },
+        { "id": "373", "zh": "知名的", "pos": "adj.", "es": "conocido" },
+        { "id": "374", "zh": "著名的", "pos": "adj.", "es": "famoso" },
+        { "id": "375", "zh": "公共汽车", "pos": "m.", "es": "autobús" }
+      ]
+    },
+    {
+      "id": "u3_t5",
+      "title": "交通工具",
+      "words": [
+        { "id": "375", "zh": "公共汽车", "pos": "m.", "es": "autobús" },
+        { "id": "376", "zh": "自行车", "pos": "f.", "es": "bicicleta" },
+        { "id": "377", "zh": "飞机", "pos": "m.", "es": "avión" },
+        { "id": "378", "zh": "汽车", "pos": "m.", "es": "coche" },
+        { "id": "379", "zh": "出租车", "pos": "m.", "es": "taxi" },
+        { "id": "380", "zh": "脚；步行", "pos": "m.", "es": "pie" },
+        { "id": "381", "zh": "地铁", "pos": "m.", "es": "metro" },
+        { "id": "382", "zh": "火车", "pos": "m.", "es": "tren" },
+        { "id": "383", "zh": "摩托车", "pos": "f.", "es": "moto" }
+      ]
+    },
+    {
+      "id": "u3_t6",
+      "title": "方位",
+      "words": [
+        { "id": "320", "zh": "北方", "pos": "m.", "es": "norte" },
+        { "id": "319", "zh": "南方", "pos": "m.", "es": "sur" },
+        { "id": "384", "zh": "东方", "pos": "m.", "es": "este" },
+        { "id": "385", "zh": "西方", "pos": "m.", "es": "oeste" },
+        { "id": "386", "zh": "西北", "pos": "m.", "es": "noroeste" },
+        { "id": "387", "zh": "东北", "pos": "m.", "es": "noreste" },
+        { "id": "388", "zh": "东南", "pos": "m.", "es": "sureste" },
+        { "id": "389", "zh": "西南", "pos": "m.", "es": "suroeste" },
+        { "id": "317", "zh": "中心", "pos": "m.", "es": "centro" }
+      ]
+    },
+    {
+      "id": "u3_t7",
+      "title": "天气、气候和季节",
+      "words": [
+        { "id": "314", "zh": "气候", "pos": "m.", "es": "clima" },
+        { "id": "390", "zh": "天气；时间", "pos": "m.", "es": "tiempo" },
+        { "id": "315", "zh": "干燥的", "pos": "adj.", "es": "seco" },
+        { "id": "365", "zh": "潮湿的", "pos": "adj.", "es": "húmedo" },
+        { "id": "318", "zh": "寒冷的", "pos": "m./adj.", "es": "frío" },
+        { "id": "391", "zh": "炎热的", "pos": "adj.", "es": "cálido" },
+        { "id": "392", "zh": "热", "pos": "m.", "es": "calor" },
+        { "id": "393", "zh": "热带的", "pos": "adj.", "es": "tropical" },
+        { "id": "316", "zh": "温和的", "pos": "adj.", "es": "templado" },
+        { "id": "394", "zh": "多雨的", "pos": "adj.", "es": "lluvioso" },
+        { "id": "395", "zh": "凉爽的", "pos": "adj.", "es": "fresco" },
+        { "id": "396", "zh": "云", "pos": "f.", "es": "nube" },
+        { "id": "397", "zh": "雾", "pos": "f.", "es": "niebla" },
+        { "id": "398", "zh": "暴风雨", "pos": "f.", "es": "tormenta" },
+        { "id": "399", "zh": "太阳", "pos": "m.", "es": "sol" },
+        { "id": "3100", "zh": "风", "pos": "m.", "es": "viento" },
+        { "id": "3101", "zh": "多云的", "pos": "adj.", "es": "nublado" },
+        { "id": "3102", "zh": "下雨", "pos": "intr.", "es": "llover" },
+        { "id": "3103", "zh": "下雪", "pos": "intr.", "es": "nevar" },
+        { "id": "3104", "zh": "雨水", "pos": "f.", "es": "lluvia" },
+        { "id": "3105", "zh": "雪花", "pos": "f.", "es": "nieve" },
+        { "id": "3106", "zh": "春天", "pos": "f.", "es": "primavera" },
+        { "id": "3107", "zh": "夏天", "pos": "m.", "es": "verano" },
+        { "id": "3108", "zh": "秋天", "pos": "m.", "es": "otoño" },
+        { "id": "3109", "zh": "冬天", "pos": "m.", "es": "invierno" }
+      ]
+    },
+    {
+      "id": "u3_t8",
+      "title": "其他词汇",
+      "words": [
+        { "id": "3110", "zh": "区域", "pos": "f.", "es": "zona" },
+        { "id": "3111", "zh": "有人居住的", "pos": "m.", "es": "poblado" },
+        { "id": "3112", "zh": "无意义连接词", "pos": "pron.", "es": "que" },
+        { "id": "3113", "zh": "然后", "pos": "adv.", "es": "luego" },
+        { "id": "3114", "zh": "像", "pos": "adv.", "es": "como" },
+        { "id": "3115", "zh": "纪念碑，纪念性建筑物", "pos": "m.", "es": "monumento" },
+        { "id": "3116", "zh": "海鲜饭", "pos": "f.", "es": "paella" },
+        { "id": "3117", "zh": "欧洽塔", "pos": "f.", "es": "horchata" },
+        { "id": "3118", "zh": "桑格利亚汽酒", "pos": "f.", "es": "sangría" },
+        { "id": "3119", "zh": "哪一个", "pos": "pron.", "es": "cuál" },
+        { "id": "3120", "zh": "哪里", "pos": "adv.", "es": "dónde" },
+        { "id": "3121", "zh": "什么", "pos": "pron.", "es": "qué" },
+        { "id": "3122", "zh": "多少", "pos": "adv.", "es": "cuánto" },
+        { "id": "3123", "zh": "怎么样", "pos": "adv.", "es": "cómo" },
+        { "id": "3124", "zh": "更大的", "pos": "adj.", "es": "mayor" },
+        { "id": "3125", "zh": "更小的", "pos": "adj.", "es": "menor" },
+        { "id": "3126", "zh": "更好的", "pos": "adj.", "es": "mejor" },
+        { "id": "3127", "zh": "更差的", "pos": "adj.", "es": "peor" },
+        { "id": "3128", "zh": "游客", "pos": "m./f.", "es": "turista" },
+        { "id": "3129", "zh": "大的", "pos": "adj.", "es": "grande" },
+        { "id": "3130", "zh": "小的", "pos": "adj.", "es": "pequeño" },
+        { "id": "3131", "zh": "长的", "pos": "adj.", "es": "largo" },
+        { "id": "3132", "zh": "高的", "pos": "adj.", "es": "alto" },
+        { "id": "3133", "zh": "西班牙的", "pos": "adj.", "es": "hispano" }
+      ]
+    }
+  ]
+},
+{
+  "id": "u4",
+  "title": "第四单元:购物选择",
+  "topics": [
+    {
+      "id": "u4_t1",
+      "title": "Actividad 1",
+      "words": [
+        { "id": "401", "zh": "售卖", "pos": "tr.", "es": "vender" },
+        { "id": "402", "zh": "购买", "pos": "tr.", "es": "comprar" },
+        { "id": "403", "zh": "衣服", "pos": "f.", "es": "ropa" },
+        { "id": "404", "zh": "香水", "pos": "m.", "es": "perfume" },
+        { "id": "405", "zh": "配饰", "pos": "m.", "es": "accesorio" },
+        { "id": "406", "zh": "集市", "pos": "m.", "es": "mercado" },
+        { "id": "407", "zh": "跳蚤市场", "pos": "m.", "es": "mercadillo" },
+        { "id": "408", "zh": "超市", "pos": "m.", "es": "supermercado" },
+        { "id": "409", "zh": "商店", "pos": "f.", "es": "tienda" },
+        { "id": "410", "zh": "购物中心", "pos": "m.", "es": "centro comercial" }
+      ]
+    },
+    {
+      "id": "u4_t2",
+      "title": "颜色",
+      "words": [
+        { "id": "411", "zh": "颜色", "pos": "m.", "es": "color" },
+        { "id": "412", "zh": "红色", "pos": "adj.", "es": "rojo" },
+        { "id": "413", "zh": "紫色", "pos": "adj.", "es": "lila" },
+        { "id": "414", "zh": "粉色", "pos": "adj.", "es": "rosa" },
+        { "id": "415", "zh": "橙色", "pos": "adj.", "es": "naranja" },
+        { "id": "416", "zh": "黄色", "pos": "adj.", "es": "amarillo" },
+        { "id": "417", "zh": "绿色", "pos": "adj.", "es": "verde" },
+        { "id": "418", "zh": "蓝色", "pos": "adj.", "es": "azul" },
+        { "id": "419", "zh": "白色", "pos": "adj.", "es": "blanco" },
+        { "id": "420", "zh": "黑色", "pos": "adj.", "es": "negro" },
+        { "id": "421", "zh": "灰色", "pos": "adj.", "es": "gris" },
+        { "id": "422", "zh": "米色", "pos": "adj.", "es": "beis" },
+        { "id": "423", "zh": "棕色", "pos": "adj.", "es": "marrón" }
+      ]
+    },
+    {
+      "id": "u4_t3",
+      "title": "Actividad 2",
+      "words": [
+        { "id": "424", "zh": "袖子", "pos": "f.", "es": "manga" },
+        { "id": "425", "zh": "短的", "pos": "adj.", "es": "corto" },
+        { "id": "426", "zh": "长的", "pos": "adj.", "es": "largo" },
+        { "id": "427", "zh": "风格", "pos": "m.", "es": "estilo" },
+        { "id": "428", "zh": "设计", "pos": "m.", "es": "diseño" },
+        { "id": "429", "zh": "尺码", "pos": "f.", "es": "talla" },
+        { "id": "430", "zh": "价格", "pos": "m.", "es": "precio" },
+        { "id": "431", "zh": "漂亮的", "pos": "adj.", "es": "bonito" },
+        { "id": "432", "zh": "丑的", "pos": "adj.", "es": "feo" },
+        { "id": "433", "zh": "有创意的；独特的", "pos": "adj.", "es": "original" },
+        { "id": "434", "zh": "现代的", "pos": "adj.", "es": "moderno" },
+        { "id": "435", "zh": "实用的", "pos": "adj.", "es": "práctico" },
+        { "id": "436", "zh": "经典的", "pos": "adj.", "es": "clásico" },
+        { "id": "437", "zh": "舒适的", "pos": "adj.", "es": "cómodo" },
+        { "id": "438", "zh": "简单的；纯色的", "pos": "adj.", "es": "sencillo" },
+        { "id": "439", "zh": "优雅的", "pos": "adj.", "es": "elegante" },
+        { "id": "440", "zh": "休闲的", "pos": "adj.", "es": "informal" },
+        { "id": "441", "zh": "吊带", "pos": "m.", "es": "tirante" },
+        { "id": "442", "zh": "条纹", "pos": "f.", "es": "raya" },
+        { "id": "443", "zh": "格子", "pos": "m.", "es": "cuadro" },
+        { "id": "444", "zh": "印花的", "pos": "adj.", "es": "estampado" },
+        { "id": "445", "zh": "贵的", "pos": "adj.", "es": "caro" },
+        { "id": "446", "zh": "便宜的", "pos": "adj.", "es": "barato" },
+        { "id": "447", "zh": "织物，布料", "pos": "m.", "es": "tejido" },
+        { "id": "448", "zh": "舒适的；宜人的", "pos": "adj.", "es": "agradable" },
+        { "id": "449", "zh": "棉", "pos": "m.", "es": "algodón" },
+        { "id": "450", "zh": "丝绸", "pos": "f.", "es": "seda" },
+        { "id": "451", "zh": "羊毛", "pos": "f.", "es": "lana" },
+        { "id": "452", "zh": "皮革", "pos": "m.", "es": "cuero" }
+      ]
+    },
+    {
+      "id": "u4_t4",
+      "title": "服饰",
+      "words": [
+        { "id": "403", "zh": "衣服", "pos": "f.", "es": "ropa" },
+        { "id": "405", "zh": "配饰", "pos": "m.", "es": "accesorio" },
+        { "id": "453", "zh": "裤子", "pos": "m.", "es": "pantalón" },
+        { "id": "454", "zh": "牛仔裤", "pos": "m.pl.", "es": "vaqueros" },
+        { "id": "455", "zh": "半身裙", "pos": "f.", "es": "falda" },
+        { "id": "456", "zh": "连衣裙", "pos": "m.", "es": "vestido" },
+        { "id": "457", "zh": "西装", "pos": "m.", "es": "traje" },
+        { "id": "458", "zh": "卫衣", "pos": "f.", "es": "sudadera" },
+        { "id": "459", "zh": "毛衣", "pos": "m.", "es": "jersey" },
+        { "id": "460", "zh": "T恤", "pos": "f.", "es": "camiseta" },
+        { "id": "461", "zh": "衬衫", "pos": "f.", "es": "camisa" },
+        { "id": "462", "zh": "比基尼", "pos": "m.", "es": "bikini" },
+        { "id": "463", "zh": "泳衣", "pos": "m.", "es": "bañador" },
+        { "id": "464", "zh": "背心", "pos": "m.", "es": "chaleco" },
+        { "id": "465", "zh": "夹克，外套", "pos": "f.", "es": "chaqueta" },
+        { "id": "466", "zh": "大衣", "pos": "m.", "es": "abrigo" },
+        { "id": "467", "zh": "睡衣", "pos": "m.", "es": "pijama" },
+        { "id": "468", "zh": "围巾", "pos": "f.", "es": "bufanda" },
+        { "id": "469", "zh": "手套", "pos": "m.pl.", "es": "guantes" },
+        { "id": "470", "zh": "毛线帽", "pos": "m.", "es": "gorro" },
+        { "id": "471", "zh": "鸭舌帽", "pos": "f.", "es": "gorra" },
+        { "id": "472", "zh": "草帽", "pos": "m.", "es": "sombrero" },
+        { "id": "473", "zh": "腰带", "pos": "m.", "es": "cinturón" },
+        { "id": "474", "zh": "包", "pos": "m.", "es": "bolso" },
+        { "id": "475", "zh": "袋子", "pos": "f.", "es": "bolsa" },
+        { "id": "476", "zh": "人字拖", "pos": "f.pl.", "es": "chanclas" },
+        { "id": "477", "zh": "凉鞋", "pos": "f.pl.", "es": "sandalias" },
+        { "id": "478", "zh": "鞋子", "pos": "m.pl.", "es": "zapatos" },
+        { "id": "479", "zh": "拖鞋", "pos": "f.pl.", "es": "zapatillas" },
+        { "id": "480", "zh": "运动鞋", "pos": "f.pl.", "es": "zapatillas deportivas" },
+        { "id": "481", "zh": "靴子", "pos": "f.pl.", "es": "botas" },
+        { "id": "482", "zh": "袜子", "pos": "m.", "es": "calcetín" },
+        { "id": "483", "zh": "太阳镜", "pos": "f.pl.", "es": "gafas de sol" },
+        { "id": "484", "zh": "领带", "pos": "f.", "es": "corbata" },
+        { "id": "485", "zh": "耳环", "pos": "m.pl.", "es": "pendientes" },
+        { "id": "486", "zh": "项链", "pos": "m.", "es": "collar" },
+        { "id": "487", "zh": "戒指", "pos": "m.", "es": "anillo" },
+        { "id": "488", "zh": "手镯", "pos": "f.", "es": "pulsera" },
+        { "id": "489", "zh": "手表", "pos": "m.", "es": "reloj" }
+      ]
+    },
+    {
+      "id": "u4_t5",
+      "title": "Actividad 3",
+      "words": [
+        { "id": "490", "zh": "吹风机", "pos": "m.", "es": "secador de pelo" },
+        { "id": "491", "zh": "牙膏", "pos": "f.", "es": "pasta de dientes" },
+        { "id": "492", "zh": "刷子", "pos": "m.", "es": "cepillo" },
+        { "id": "493", "zh": "洗发水", "pos": "m.", "es": "champú" },
+        { "id": "494", "zh": "沐浴露", "pos": "m.", "es": "gel de ducha" },
+        { "id": "495", "zh": "证件", "pos": "m.", "es": "carné" },
+        { "id": "496", "zh": "身份", "pos": "f.", "es": "identidad" },
+        { "id": "497", "zh": "毛巾", "pos": "f.", "es": "toalla" },
+        { "id": "498", "zh": "信用卡", "pos": "f.", "es": "tarjeta de crédito" },
+        { "id": "499", "zh": "充电器", "pos": "m.", "es": "cargador" },
+        { "id": "4100", "zh": "药品", "pos": "m.", "es": "medicamento" },
+        { "id": "4101", "zh": "梳子", "pos": "m.", "es": "peine" },
+        { "id": "4102", "zh": "钱", "pos": "m.", "es": "dinero" },
+        { "id": "4103", "zh": "防晒霜", "pos": "f.", "es": "crema solar" },
+        { "id": "4104", "zh": "内衣", "pos": "f.", "es": "ropa interior" }
+      ]
+    },
+    {
+      "id": "u4_t6",
+      "title": "Actividad 4",
+      "words": [
+        { "id": "4105", "zh": "外国的；国外", "pos": "adj.-m.", "es": "extranjero" },
+        { "id": "4106", "zh": "租赁", "pos": "tr.", "es": "alquilar" },
+        { "id": "4107", "zh": "驾驶", "pos": "tr.", "es": "conducir" },
+        { "id": "4108", "zh": "游泳", "pos": "f.", "es": "natación" },
+        { "id": "4109", "zh": "礼物", "pos": "m.", "es": "regalo" },
+        { "id": "4110", "zh": "毯子", "pos": "f.", "es": "manta" },
+        { "id": "4111", "zh": "野餐", "pos": "m.", "es": "picnic" },
+        { "id": "4112", "zh": "瓶子", "pos": "f.", "es": "botella" },
+        { "id": "4113", "zh": "葡萄酒", "pos": "m.", "es": "vino" }
+      ]
+    },
+    {
+      "id": "u4_t7",
+      "title": "Actividad 12",
+      "words": [
+        { "id": "4114", "zh": "马", "pos": "m.", "es": "caballo" },
+        { "id": "4115", "zh": "滑雪", "pos": "m.", "es": "esquí" },
+        { "id": "4116", "zh": "路线", "pos": "f.", "es": "ruta" },
+        { "id": "4117", "zh": "美食的", "pos": "adj.", "es": "gastronómico" },
+        { "id": "4118", "zh": "冲浪", "pos": "m.", "es": "surf" },
+        { "id": "4119", "zh": "药店", "pos": "f.", "es": "farmacia" },
+        { "id": "4120", "zh": "润唇膏", "pos": "m.", "es": "protector labial" },
+        { "id": "4121", "zh": "目的地", "pos": "m.", "es": "destino" }
+      ]
+    },
+    {
+      "id": "u4_t8",
+      "title": "动词",
+      "words": [
+        { "id": "4122", "zh": "穿；戴", "pos": "tr.", "es": "llevar" },
+        { "id": "4123", "zh": "带走", "pos": "tr.", "es": "llevarse" },
+        { "id": "4124", "zh": "更喜欢，偏爱", "pos": "tr.", "es": "preferir" },
+        { "id": "4125", "zh": "花费", "pos": "intr.", "es": "costar" },
+        { "id": "4126", "zh": "支付", "pos": "tr.", "es": "pagar" },
+        { "id": "4127", "zh": "渴望，想要", "pos": "tr.", "es": "desear" },
+        { "id": "4106", "zh": "租赁", "pos": "tr.", "es": "alquilar" },
+        { "id": "4107", "zh": "驾驶", "pos": "tr.", "es": "conducir" },
+        { "id": "4128", "zh": "选择", "pos": "tr.", "es": "elegir" }
+      ]
+    }
+  ]
+}
 ]
