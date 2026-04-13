@@ -776,5 +776,170 @@
       ]
     }
   ]
+},
+{
+  "id": "u5",
+  "title": "第五单元:人物描写",
+  "topics": [
+    {
+      "id": "u5_t1",
+      "title": "家庭成员",
+      "words": [
+        { "id": "501", "zh": "祖父；外祖父", "pos": "m.", "es": "abuelo" },
+        { "id": "502", "zh": "祖母；外祖母", "pos": "f.", "es": "abuela" },
+        { "id": "503", "zh": "父亲", "pos": "m.", "es": "padre" },
+        { "id": "504", "zh": "母亲", "pos": "f.", "es": "madre" },
+        { "id": "505", "zh": "叔叔；伯伯；舅舅", "pos": "m.", "es": "tío" },
+        { "id": "506", "zh": "阿姨；姑姑；婶婶", "pos": "f.", "es": "tía" },
+        { "id": "507", "zh": "表姐妹；堂姐妹", "pos": "f.", "es": "prima" },
+        { "id": "508", "zh": "表兄弟；堂兄弟", "pos": "m.", "es": "primo" },
+        { "id": "509", "zh": "兄弟", "pos": "m.", "es": "hermano" },
+        { "id": "510", "zh": "姐妹", "pos": "f.", "es": "hermana" },
+        { "id": "511", "zh": "丈夫（口语）", "pos": "m.", "es": "marido" },
+        { "id": "512", "zh": "妻子（口语）", "pos": "f.", "es": "mujer" },
+        { "id": "513", "zh": "丈夫（书面）", "pos": "m.", "es": "esposo" },
+        { "id": "514", "zh": "妻子（书面）", "pos": "f.", "es": "esposa" },
+        { "id": "515", "zh": "儿子", "pos": "m.", "es": "hijo" },
+        { "id": "516", "zh": "女儿", "pos": "f.", "es": "hija" },
+        { "id": "517", "zh": "侄子；外甥", "pos": "m.", "es": "sobrino" },
+        { "id": "518", "zh": "侄女；外甥女", "pos": "f.", "es": "sobrina" },
+        { "id": "519", "zh": "儿媳", "pos": "f.", "es": "nuera" },
+        { "id": "520", "zh": "女婿", "pos": "m.", "es": "yerno" },
+        { "id": "521", "zh": "孙子；外孙", "pos": "m.", "es": "nieto" },
+        { "id": "522", "zh": "孙女；外孙女", "pos": "f.", "es": "nieta" },
+        { "id": "523", "zh": "岳父；公公", "pos": "m.", "es": "suegro" },
+        { "id": "524", "zh": "岳母；婆婆", "pos": "f.", "es": "suegra" },
+        { "id": "525", "zh": "姐夫；妹夫；内弟；小舅子（配偶的兄弟；兄弟的配偶）", "pos": "m.", "es": "cuñado" },
+        { "id": "526", "zh": "嫂子；弟媳；大姨子；小姨子（配偶的姐妹；姐妹的配偶）", "pos": "f.", "es": "cuñada" },
+        { "id": "527", "zh": "伴侣", "pos": "f.", "es": "pareja" }
+      ]
+    },
+    {
+      "id": "u5_t2",
+      "title": "婚姻状况",
+      "words": [
+        { "id": "528", "zh": "已婚的", "pos": "adj.", "es": "casado" },
+        { "id": "529", "zh": "单身的", "pos": "adj.", "es": "soltero" },
+        { "id": "530", "zh": "分居的", "pos": "adj.", "es": "separado" },
+        { "id": "531", "zh": "离婚的", "pos": "adj.", "es": "divorciado" },
+        { "id": "532", "zh": "丧偶的", "pos": "adj.", "es": "viudo" }
+      ]
+    },
+    {
+      "id": "u5_t3",
+      "title": "音乐相关",
+      "words": [
+        { "id": "533", "zh": "钢琴", "pos": "m.", "es": "piano" },
+        { "id": "534", "zh": "吉他", "pos": "f.", "es": "guitarra" },
+        { "id": "535", "zh": "小提琴", "pos": "m.", "es": "violín" },
+        { "id": "536", "zh": "长笛", "pos": "f.", "es": "flauta" },
+        { "id": "537", "zh": "舞者", "pos": "m./f.", "es": "bailarín" },
+        { "id": "538", "zh": "歌手", "pos": "m./f.", "es": "cantante" },
+        { "id": "539", "zh": "作曲家", "pos": "m./f.", "es": "compositor" },
+        { "id": "540", "zh": "钢琴家", "pos": "m./f.", "es": "pianista" },
+        { "id": "541", "zh": "音乐家", "pos": "m./f.", "es": "músico" },
+        { "id": "542", "zh": "乐器", "pos": "m.", "es": "instrumento" },
+        { "id": "543", "zh": "音乐剧", "pos": "m.", "es": "musical" },
+        { "id": "544", "zh": "歌剧", "pos": "f.", "es": "ópera" }
+      ]
+    },
+    {
+      "id": "u5_t4",
+      "title": "Actividad 4",
+      "words": [
+        { "id": "545", "zh": "类型", "pos": "m.", "es": "tipo" },
+        { "id": "546", "zh": "通常", "pos": "adv.", "es": "normalmente" },
+        { "id": "547", "zh": "最近", "pos": "adv.", "es": "últimamente" },
+        { "id": "548", "zh": "同样的", "pos": "adj.", "es": "mismo" },
+        { "id": "549", "zh": "到处", "pos": "adv.", "es": "en todas partes" },
+        { "id": "550", "zh": "喜欢", "pos": "intr.", "es": "gustar" },
+        { "id": "551", "zh": "非常喜欢，迷恋", "pos": "intr.", "es": "encantar" },
+        { "id": "552", "zh": "感兴趣", "pos": "intr.", "es": "interesar" }
+      ]
+    },
+    {
+      "id": "u5_t5",
+      "title": "性格",
+      "words": [
+        { "id": "553", "zh": "友善的", "pos": "adj.", "es": "simpático" },
+        { "id": "554", "zh": "外向的", "pos": "adj.", "es": "extrovertido" },
+        { "id": "555", "zh": "爱冒险的", "pos": "adj.", "es": "aventurero" },
+        { "id": "556", "zh": "有趣的，好玩的", "pos": "adj.", "es": "divertido" },
+        { "id": "557", "zh": "健谈的", "pos": "adj.", "es": "hablador" },
+        { "id": "558", "zh": "正常的", "pos": "adj.", "es": "normal" },
+        { "id": "559", "zh": "善于社交的", "pos": "adj.", "es": "sociable" },
+        { "id": "560", "zh": "活跃的", "pos": "adj.", "es": "activo" },
+        { "id": "561", "zh": "开放的", "pos": "adj.", "es": "abierto" },
+        { "id": "562", "zh": "害羞的", "pos": "adj.", "es": "tímido" },
+        { "id": "563", "zh": "无聊的", "pos": "adj.", "es": "aburrido" },
+        { "id": "564", "zh": "封闭的", "pos": "adj.", "es": "cerrado" },
+        { "id": "565", "zh": "内向的", "pos": "adj.", "es": "introvertido" },
+        { "id": "566", "zh": "沉默寡言的", "pos": "adj.", "es": "callado" },
+        { "id": "567", "zh": "胆小的", "pos": "adj.", "es": "miedoso" },
+        { "id": "568", "zh": "令人愉快的，相处舒服的", "pos": "adj.", "es": "agradable" },
+        { "id": "569", "zh": "亲切的，有礼貌的", "pos": "adj.", "es": "amable" },
+        { "id": "570", "zh": "快乐的", "pos": "adj.", "es": "alegre" },
+        { "id": "571", "zh": "严肃的", "pos": "adj.", "es": "serio" },
+        { "id": "572", "zh": "被动的", "pos": "adj.", "es": "pasivo" },
+        { "id": "573", "zh": "不友好的，讨厌的", "pos": "adj.", "es": "antipático" },
+        { "id": "574", "zh": "有趣的，有内涵的", "pos": "adj.", "es": "interesante" },
+        { "id": "575", "zh": "很，非常", "pos": "adv.", "es": "muy" },
+        { "id": "576", "zh": "一点", "pos": "adv.", "es": "un poco" },
+        { "id": "577", "zh": "相当", "pos": "adv.", "es": "bastante" },
+        { "id": "578", "zh": "似乎；看起来", "pos": "intr.", "es": "parecer" }
+      ]
+    },
+    {
+      "id": "u5_t6",
+      "title": "外貌",
+      "words": [
+        { "id": "579", "zh": "头发", "pos": "m.", "es": "pelo" },
+        { "id": "580", "zh": "眼睛", "pos": "m.", "es": "ojo" },
+        { "id": "581", "zh": "鼻子", "pos": "f.", "es": "nariz" },
+        { "id": "582", "zh": "嘴", "pos": "f.", "es": "boca" },
+        { "id": "583", "zh": "嘴唇", "pos": "m.", "es": "labio" },
+        { "id": "584", "zh": "耳朵", "pos": "f.", "es": "oreja" },
+        { "id": "585", "zh": "胡须；络腮胡", "pos": "f.", "es": "barba" },
+        { "id": "586", "zh": "深色的", "pos": "adj.", "es": "moreno" },
+        { "id": "587", "zh": "棕色的，栗色的", "pos": "adj.", "es": "castaño" },
+        { "id": "588", "zh": "金黄色的", "pos": "adj.", "es": "rubio" },
+        { "id": "589", "zh": "红色的", "pos": "adj.", "es": "pelirrojo" },
+        { "id": "590", "zh": "染色的", "pos": "adj.", "es": "teñido" },
+        { "id": "591", "zh": "卷曲的", "pos": "adj.", "es": "rizado" },
+        { "id": "592", "zh": "波浪的", "pos": "adj.", "es": "ondulado" },
+        { "id": "593", "zh": "直的", "pos": "adj.", "es": "liso" },
+        { "id": "594", "zh": "短的", "pos": "adj.", "es": "corto" },
+        { "id": "595", "zh": "长的", "pos": "adj.", "es": "largo" },
+        { "id": "596", "zh": "山羊胡", "pos": "f.", "es": "perilla" },
+        { "id": "597", "zh": "八字胡", "pos": "m.", "es": "bigote" },
+        { "id": "598", "zh": "矮的", "pos": "adj.", "es": "bajo" },
+        { "id": "599", "zh": "高的", "pos": "adj.", "es": "alto" },
+        { "id": "5100", "zh": "瘦的", "pos": "adj.", "es": "delgado" },
+        { "id": "5101", "zh": "胖的", "pos": "adj.", "es": "gordo" },
+        { "id": "5102", "zh": "丑的", "pos": "adj.", "es": "feo" },
+        { "id": "5103", "zh": "帅的；漂亮的", "pos": "adj.", "es": "guapo" },
+        { "id": "5104", "zh": "年轻的", "pos": "adj.", "es": "joven" },
+        { "id": "5105", "zh": "年长的", "pos": "adj.", "es": "mayor" },
+        { "id": "5106", "zh": "秃头的", "pos": "adj.", "es": "calvo" }
+      ]
+    },
+    {
+      "id": "u5_t7",
+      "title": "其他",
+      "words": [
+        { "id": "5107", "zh": "风景", "pos": "m.", "es": "paisaje" },
+        { "id": "5108", "zh": "肖像", "pos": "m.", "es": "retrato" },
+        { "id": "5109", "zh": "也", "pos": "adv.", "es": "también" },
+        { "id": "5110", "zh": "也不", "pos": "adv.", "es": "tampoco" },
+        { "id": "5111", "zh": "也不；既不", "pos": "conj.", "es": "ni" },
+        { "id": "5112", "zh": "什么都没有", "pos": "pron.", "es": "nada" },
+        { "id": "5113", "zh": "徒步", "pos": "m.", "es": "senderismo" },
+        { "id": "5114", "zh": "壮丽的", "pos": "adj.", "es": "magnífico" },
+        { "id": "5115", "zh": "考古的", "pos": "adj.", "es": "arqueológico" },
+        { "id": "5116", "zh": "习俗", "pos": "f.", "es": "costumbre" },
+        { "id": "5117", "zh": "祖先", "pos": "m.", "es": "antecesor" }
+      ]
+    }
+  ]
 }
 ]
